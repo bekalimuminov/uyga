@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Tenor+Sans&display=swap');
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+}
+body{
+    width: 1700px;
+    margin: 0 auto;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 37px;
+    margin-bottom: 33px;
+}
+.box1{
+    display: flex;
+    width: 1111px;
+    height: 400px;
+    margin-top: 10px;
+
+}
+.header-text{
+    display: flex;
+    gap: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-right: 200px;
+}
+.box2{
+    padding-top: 20px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: "Libre Franklin", sans-serif;
+    font-weight: 400;
+}
+.section_text1{
+    color: #666666;
+    max-width: 419px;
+    width: 100%;
+    margin-top: 27px;
+}
+.section_text{
+    margin-left: 51px;
+}
+.label{
+    color: #666666;
+}
+.h5{
+    margin-top: 28px;
+    text-transform: uppercase;
+    font-family: "Libre Franklin", sans-serif;
+}
+.container1{
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.header{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.box3{
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+
+}
+.box4{
+    font-family: "Libre Franklin", sans-serif;
+    color: #666666;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.box5{
+    font-size: 20px;
+    font-family: "Libre Franklin", sans-serif;
+    margin-bottom: 10px;
+}
+.box6{
+    font-weight: 700;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.box8{
+    display: flex;
+    gap: 20px;
+    margin-top: 60px;
+}
+.box10{
+    display: flex;
+    gap: 20px;
+}
+.box11{
+    display: flex;
+    gap: 20px;
+    margin-top: 60px;
+
+}
+.box12{
+    color: #666666;
+}
+.box13{
+    margin-top: 160px;
+}
+.box16{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 38%;
+    width: 205px;
+    height: 54px;
+    text-align: center;
+}
+.box17{
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.box18{
+    margin-bottom: 20px;
+    width: 1195px;
+    color: #E6E6E6;
+    opacity: 0.5;
+}
+.box19{
+    font-size: 10px;
+    color: #666666;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.box20{
+    margin-top: 10px;
+    font-size: 10px;
+    color: #666666;
+    text-transform: uppercase;
+}
+.box21{
+    margin-top: 10px;
+    font-family: "Libre Franklin", sans-serif;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+.box22{
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+.box23{
+    display: flex;
+}
+.box24{
+    margin-left: 20px;
+}
+.box25{
+    display: flex;
+}
+.Noicelend__h1{
+    margin-left: 95px;
+}
+.hr{
+    width: 1195px;
+}
