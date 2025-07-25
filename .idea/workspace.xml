@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="" />
+    <list default="true" id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/uyga/img/Group 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/ghhgfc/uyft.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (10).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (11).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (12).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (13).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (20).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (5).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (6).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (7).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (8).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (9).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/gor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/odam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/ovqat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/rasm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/shaxar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/tabiat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/togk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/uyga.css" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/uyga.html" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +47,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -32,6 +65,8 @@
     &quot;JavaScript Debug.uyga.html.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/fronted/uyga/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -80,6 +115,17 @@
       <workItem from="1751885973043" duration="4840000" />
       <workItem from="1751986540894" duration="5740000" />
       <workItem from="1752057570730" duration="3051000" />
+      <workItem from="1752236782670" duration="1297000" />
+      <workItem from="1752492057988" duration="7883000" />
+      <workItem from="1752670396489" duration="23000" />
+      <workItem from="1752993687447" duration="200000" />
+      <workItem from="1752993906767" duration="3658000" />
+      <workItem from="1753274375829" duration="169000" />
+      <workItem from="1753338799928" duration="50000" />
+      <workItem from="1753338865817" duration="6000" />
+      <workItem from="1753362800701" duration="4464000" />
+      <workItem from="1753379618262" duration="2894000" />
+      <workItem from="1753421399139" duration="972000" />
     </task>
     <servers />
   </component>
