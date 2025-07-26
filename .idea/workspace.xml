@@ -5,33 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/uyga/img/Group 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/Asset 12 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/IMAGE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/cosmanat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/cosmanat_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/odamm_cosms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uyga/img/qiz.avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/ghhgfc/uyft.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (10).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (11).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (12).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (13).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (20).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (5).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (6).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (7).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (8).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE (9).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/IMAGE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/gor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/odam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/ovqat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/rasm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/shaxar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/tabiat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/togk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/Group 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyga/img/img.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uyga/uyga.css" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uyga/uyga.html" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.html" afterDir="false" />
     </list>
@@ -74,12 +57,16 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\fronted\uyga\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fronted\uyga" />
     </key>
   </component>
   <component name="RunManager">
@@ -125,7 +112,10 @@
       <workItem from="1753338865817" duration="6000" />
       <workItem from="1753362800701" duration="4464000" />
       <workItem from="1753379618262" duration="2894000" />
-      <workItem from="1753421399139" duration="972000" />
+      <workItem from="1753421399139" duration="1609000" />
+      <workItem from="1753440834280" duration="5124000" />
+      <workItem from="1753459010119" duration="1856000" />
+      <workItem from="1753515962035" duration="5557000" />
     </task>
     <servers />
   </component>
