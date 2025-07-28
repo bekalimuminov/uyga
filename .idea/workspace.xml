@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/uyga/img/Asset 12 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/IMAGE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/cosmanat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/cosmanat_avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/odamm_cosms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uyga/img/qiz.avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/Group 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uyga/uyga.css" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uyga/uyga.html" beforeDir="false" afterPath="$PROJECT_DIR$/uyga/uyga.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +105,9 @@
       <workItem from="1753421399139" duration="1609000" />
       <workItem from="1753440834280" duration="5124000" />
       <workItem from="1753459010119" duration="1856000" />
-      <workItem from="1753515962035" duration="5557000" />
+      <workItem from="1753515962035" duration="6190000" />
+      <workItem from="1753593055265" duration="103000" />
+      <workItem from="1753691088940" duration="293000" />
     </task>
     <servers />
   </component>

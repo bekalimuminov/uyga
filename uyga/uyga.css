@@ -72,8 +72,12 @@ font-weight: 600;
     gap: 30px;
     margin-top: 60px;
 }
-@media screen and (max-width: 1170) {
+@media screen and (max-width: 1170px) {
    .box6{
        flex-direction: column;
    }
+
+    .box5{
+        width: 335px;
+    }
 }
