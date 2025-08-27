@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fronded/img/ayol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/header__img24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/header_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/main_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/main_img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/main_img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/main_img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/main_rasm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/muzqaymoq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/muzqaymoq2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/muzqaymoq3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronded/img/muzqaymoq4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fronded/fronted.css" beforeDir="false" afterPath="$PROJECT_DIR$/fronded/fronted.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fronded/fronted.html" beforeDir="false" afterPath="$PROJECT_DIR$/fronded/fronted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fronded/img/alisher 3 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fronded/img/chiziiq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fronded/img/ciziq.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zGQK96mUkQ1x3jFFXN2wfeT9dg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.uyga.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/fronted/fronded/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fronted\fronded\img" />
+      <recent name="D:\fronted\uyga\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fronted\uyga" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="uyga.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fronted/uyga/uyga.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.uyga.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e8dbf7e-0ec4-4bb8-a63e-a60780e80450" name="Changes" comment="" />
+      <created>1751354864590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751354864590</updated>
+      <workItem from="1751354865909" duration="471000" />
+      <workItem from="1751369280171" duration="3792000" />
+      <workItem from="1751443341461" duration="6535000" />
+      <workItem from="1751472872951" duration="3431000" />
+      <workItem from="1751520772998" duration="6969000" />
+      <workItem from="1751690501374" duration="7271000" />
+      <workItem from="1751885973043" duration="4840000" />
+      <workItem from="1751986540894" duration="5740000" />
+      <workItem from="1752057570730" duration="3051000" />
+      <workItem from="1752236782670" duration="1297000" />
+      <workItem from="1752492057988" duration="7883000" />
+      <workItem from="1752670396489" duration="23000" />
+      <workItem from="1752993687447" duration="200000" />
+      <workItem from="1752993906767" duration="3658000" />
+      <workItem from="1753274375829" duration="169000" />
+      <workItem from="1753338799928" duration="50000" />
+      <workItem from="1753338865817" duration="6000" />
+      <workItem from="1753362800701" duration="4464000" />
+      <workItem from="1753379618262" duration="2894000" />
+      <workItem from="1753421399139" duration="1609000" />
+      <workItem from="1753440834280" duration="5124000" />
+      <workItem from="1753459010119" duration="1856000" />
+      <workItem from="1753515962035" duration="6190000" />
+      <workItem from="1753593055265" duration="103000" />
+      <workItem from="1753691088940" duration="816000" />
+      <workItem from="1753767213308" duration="12045000" />
+      <workItem from="1753859348194" duration="719000" />
+      <workItem from="1753875066541" duration="716000" />
+      <workItem from="1754047713000" duration="500000" />
+      <workItem from="1754395062158" duration="3548000" />
+      <workItem from="1754461093211" duration="213000" />
+      <workItem from="1755621803648" duration="857000" />
+      <workItem from="1755622778096" duration="9000" />
+      <workItem from="1755622799611" duration="938000" />
+      <workItem from="1755623810212" duration="64000" />
+      <workItem from="1755623972170" duration="51000" />
+      <workItem from="1755624074156" duration="2123000" />
+      <workItem from="1755626355401" duration="1274000" />
+      <workItem from="1755866926621" duration="42000" />
+      <workItem from="1756026655560" duration="3000" />
+      <workItem from="1756141881980" duration="1418000" />
+      <workItem from="1756186512007" duration="339000" />
+      <workItem from="1756187255560" duration="1800000" />
+      <workItem from="1756199959547" duration="1764000" />
+      <workItem from="1756207456987" duration="898000" />
+      <workItem from="1756226924493" duration="863000" />
+      <workItem from="1756228058725" duration="3952000" />
+      <workItem from="1756270639777" duration="5540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
